@@ -1,1 +1,1 @@
-# someprojiects
+# just a repository for saving daily task
